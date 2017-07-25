@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "do_objectID": "D95AB833-4267-43BE-B83E-0AC897358FEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 31,
+    "width": 136,
+    "x": 16,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "688B881F-00C2-422C-81CF-EB1FDDA156B9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "797D79D7-E911-4203-A849-CF96A37E9EA1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A3FD63A-D704-4EB3-B474-D459D9FE802B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02B93F07-B3D5-4E8D-8C3E-D32B2652E854"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C00A72D8-8A66-4B36-A84D-5068AEF57BB3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9128B7AC-9DAE-4A65-BFEA-ADEF28D21024"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF950F82-7E40-48CA-BD69-532B411CA75D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B78973DB-E251-4248-88B2-9B3026A08793"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "132CEDEF-E048-405F-B9A7-99A997160D05"
+    }
+  ],
+  "name": "Pega logo",
+  "nameIsFixed": true,
+  "originalObjectID": "D95AB833-4267-43BE-B83E-0AC897358FEF",
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 31,
+            "enabled": 1,
+            "modelID": "constraint_9deaac80-884f-476a-90bd-516320a4765f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 136
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_82d474a9-b558-4618-ad9c-05519c353065",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

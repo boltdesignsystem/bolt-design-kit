@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "do_objectID": "371C2B15-2C00-4BAC-A730-404951FE752C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 1440,
+    "x": 0,
+    "y": 555
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A499588E-CE79-444E-ADC4-116119F6B2AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2814EC84-C54C-4E71-881F-2AA47A99DE82"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8E41A8E1-A3DD-42D1-8006-E7BE3D5FACEA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8BED290E-4AA8-4527-8B46-4110A969A8CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "430069AA-23BB-4162-9050-7310894A0CFE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C0D9DEE-216B-48D1-96F5-93FFB3E7E4E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3AC122CC-7CA9-407D-B374-26E3E47CD273"
+    },
+    {
+      "class": "text",
+      "id": "A7E889F2-4109-4B99-987A-1C45131FAC0A"
+    },
+    {
+      "class": "text",
+      "id": "89F13D8F-A11D-412C-8BF8-DAD13E531830"
+    },
+    {
+      "class": "text",
+      "id": "EF116052-3C64-4D71-9931-2DBFEC992C25"
+    },
+    {
+      "class": "text",
+      "id": "F9E4703C-B22C-4DE1-B31B-C34350DE20CC"
+    },
+    {
+      "class": "text",
+      "id": "1773F661-D072-4282-B505-DD31DC4DF064"
+    },
+    {
+      "class": "text",
+      "id": "005496C4-3302-498A-ACB8-BBCC0F325B62"
+    },
+    {
+      "class": "text",
+      "id": "544186A6-7314-41E8-8B41-41EB4C5AAF66"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5CB3A41-224E-4347-AF5C-E01633E4ED90"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A02D715-5683-4C4F-86C9-3D7970D008A2"
+    },
+    {
+      "class": "group",
+      "id": "E317D137-8D5C-48CD-841D-23AFD817DD9E"
+    }
+  ],
+  "name": "03 - 6 anchor links with padding container",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "3AF7080E-E7FD-487F-BE17-09F239795680",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 1440,
+    "x": 0,
+    "y": 724
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6CE62D66-B8A7-43A3-9A19-C0C0F1BD6030"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "66A186BF-9564-4B35-92D1-E0BA7AA4B3B7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F0D8AE2-1B83-430B-B6FC-2F6A8B74995A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C096EF07-6803-482E-B259-B41A4FF03559"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C4FB03AF-6098-413F-B2B5-1761D79E3F16"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "202F515B-74F3-4192-AC0F-9BF221C6E5AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7777AB97-05D3-4316-A0D2-0B9D554C5B74"
+    },
+    {
+      "class": "text",
+      "id": "457C4E1C-487C-4C30-81CA-AD65AB08D29C"
+    },
+    {
+      "class": "text",
+      "id": "8BB1C458-118C-4561-9B5A-A02BB056ECA3"
+    },
+    {
+      "class": "text",
+      "id": "8F9A5CD1-84B4-4D00-8C91-8B6C082B5DB9"
+    },
+    {
+      "class": "text",
+      "id": "81D24CAE-9613-41CE-9986-76088DC00109"
+    },
+    {
+      "class": "text",
+      "id": "9700981E-A9C2-4715-B8A6-FE2CFF52149C"
+    },
+    {
+      "class": "text",
+      "id": "DED1811F-4ECF-4674-8B30-3FB09D8A1F5C"
+    },
+    {
+      "class": "text",
+      "id": "CCEDFA3F-3B42-4D09-917C-E7C358F68460"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4BCBC8C1-36CB-4C3F-8256-BC597DD53094"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7AE2F93D-7576-4DDE-BAC9-BC432163C76F"
+    }
+  ],
+  "name": "04 - 6 anchor links",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

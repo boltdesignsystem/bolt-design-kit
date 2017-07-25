@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4CEA9525-DA7F-4E34-A3F3-A7F4E329D1C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 144,
+    "x": 0,
+    "y": 277
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "button/primary/orange",
+  "nameIsFixed": false,
+  "overrides": {
+    "3715182F-A482-44C3-B316-035A614073F1": {
+      "symbolID": "1F54670D-1CC5-48D2-A0A0-2BE56C9ED461"
+    },
+    "F9480064-FBD4-4430-9D5F-BB6BD1D2B8B0": {
+      "2041E514-1227-4218-8E50-153739C0050B": "Learn more",
+      "3A3FFCF8-856A-44B7-BB46-EDECBFA54C53": "Learn more",
+      "symbolID": "37E80A86-292F-4999-B00A-87E5E2C14F17"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BE106704-3E0A-4C23-B846-74DDC42B512E",
+  "verticalSpacing": 0
+}

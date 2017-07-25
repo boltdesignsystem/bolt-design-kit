@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "57018C2F-1BDB-4217-B6D9-875C9B519E2F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 301,
+    "width": 442,
+    "x": 958,
+    "y": 174
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B5615559-A187-40DC-87C5-254C8EF9B874"
+    },
+    {
+      "class": "group",
+      "id": "EF211757-53D6-411E-ACA5-C34F58F9E70B"
+    },
+    {
+      "class": "text",
+      "id": "F1F69862-C517-441D-8C53-A9BE65EE3F95"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BCC59711-DD74-4CD7-9FF1-52D2CBF0E1DD"
+    }
+  ],
+  "name": "Quote card",
+  "nameIsFixed": true,
+  "originalObjectID": "E6FB3D98-1F30-4DFF-ACF3-C14F693B8E85",
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

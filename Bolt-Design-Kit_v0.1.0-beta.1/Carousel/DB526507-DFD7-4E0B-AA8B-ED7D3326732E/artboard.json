@@ -1,0 +1,182 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.91,
+    "green": 0.88634,
+    "red": 0.8736
+  },
+  "do_objectID": "DB526507-DFD7-4E0B-AA8B-ED7D3326732E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1853,
+    "width": 1440,
+    "x": -650,
+    "y": -890
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "727C0587-F657-4F4D-9D53-26B70D9AE918"
+    },
+    {
+      "class": "group",
+      "id": "27B019AF-4C81-4168-8FA9-109E5CC2DD07"
+    },
+    {
+      "class": "group",
+      "id": "D61E1D06-1EAE-49B8-819F-571A7EE8720C"
+    },
+    {
+      "class": "group",
+      "id": "50897338-12C7-46B4-84D7-A0E196DF012E"
+    },
+    {
+      "class": "group",
+      "id": "3AF7080E-E7FD-487F-BE17-09F239795680"
+    },
+    {
+      "class": "group",
+      "id": "371C2B15-2C00-4BAC-A730-404951FE752C"
+    },
+    {
+      "class": "group",
+      "id": "F7B9B953-908C-41E0-8E21-6A62FB715CE4"
+    },
+    {
+      "class": "group",
+      "id": "2E2262A0-B133-481F-B90C-96FBEF0C2C01"
+    },
+    {
+      "class": "group",
+      "id": "6030AD27-31AB-46E7-800D-4E1E3738C3E4"
+    },
+    {
+      "class": "text",
+      "id": "F0775CA1-7131-4FD6-95EA-0B6ED88ACDF9"
+    },
+    {
+      "class": "text",
+      "id": "C24004D2-1B19-4869-A19B-1CCEB09E3914"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 237.2,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": false,
+    "horizontalOffset": 95,
+    "isEnabled": false,
+    "numberOfColumns": 5,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1250
+  },
+  "name": "Anchor 1600 flexible",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/fbd28f19229cab3d2fbc4ec12d5d8e45b74a0021",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Office",
+        "icon": "ball",
+        "index": 7,
+        "mode": "unsplash",
+        "title": "Office"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

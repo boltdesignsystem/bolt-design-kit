@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "D684A3B6-048B-4914-A487-B999640A9F67",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 61,
+    "width": 272,
+    "x": 865,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "810E8F0A-F9EC-465A-B493-5EC2B820DA44"
+    },
+    {
+      "class": "text",
+      "id": "5F11DA1E-68D2-430E-A11C-5615749E9912"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13DC8F85-B86C-402F-8A11-DEA26616B9A6"
+    }
+  ],
+  "name": "Asset 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

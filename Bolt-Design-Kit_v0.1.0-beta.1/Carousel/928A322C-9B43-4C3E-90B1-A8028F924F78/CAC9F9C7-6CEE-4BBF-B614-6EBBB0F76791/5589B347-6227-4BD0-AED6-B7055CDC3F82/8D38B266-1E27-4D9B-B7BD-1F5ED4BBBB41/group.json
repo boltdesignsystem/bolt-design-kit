@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "8D38B266-1E27-4D9B-B7BD-1F5ED4BBBB41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 136,
+    "x": 44,
+    "y": 38
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EB94622F-25F9-4A94-A5DE-8C418AE4B8CF"
+    },
+    {
+      "class": "group",
+      "id": "717FD350-1CB3-4FD4-82EF-82206F119A17"
+    },
+    {
+      "class": "group",
+      "id": "F926183D-7254-4160-A2B0-67B16B7BBA31"
+    }
+  ],
+  "name": "Login-signup",
+  "nameIsFixed": true,
+  "originalObjectID": "3FE4FAE9-3403-4620-9004-749798BB5740",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

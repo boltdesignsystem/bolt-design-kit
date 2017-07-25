@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "C292F9DD-8B6A-4457-B5A3-AADF52DF61CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 30,
+    "width": 136,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E07E7AF3-1129-4911-A60F-D1A74E8ECFF3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E19D341-663F-45B1-90F4-9013CB8473C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06E919C7-AC17-4D58-840B-7C413F915AB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3302CDCC-8C0B-4B50-8F13-D81873D43BBF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "93705370-0E7C-40ED-A8C8-122D7D2108A9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F95D8DF-6F85-46DF-89E3-22B6F30440FF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D06DA4C5-38CF-41D3-8B7C-0894183BDFEC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8BE4E46E-7B01-4059-A7ED-1136060131D8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B9D9F4CB-BD0E-48A0-BC79-5E758C325415"
+    }
+  ],
+  "name": "Pega logo",
+  "nameIsFixed": true,
+  "originalObjectID": "26463E6C-EB1E-4B57-823D-7C79142E6EF8",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

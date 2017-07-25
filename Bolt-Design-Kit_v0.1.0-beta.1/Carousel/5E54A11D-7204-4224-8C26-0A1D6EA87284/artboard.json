@@ -1,0 +1,186 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.91,
+    "green": 0.88634,
+    "red": 0.8736
+  },
+  "do_objectID": "5E54A11D-7204-4224-8C26-0A1D6EA87284",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1853,
+    "width": 320,
+    "x": -1072,
+    "y": -890
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "218C141F-5E9E-4BF1-BD98-F1BB02FF580A"
+    },
+    {
+      "class": "group",
+      "id": "559478F8-B6CA-4E1D-91EE-510C31B0A342"
+    },
+    {
+      "class": "group",
+      "id": "481F9CC3-9D5E-456D-B55F-F706328CF0CA"
+    },
+    {
+      "class": "group",
+      "id": "2B6FA997-D890-4991-A40B-1E269547F469"
+    },
+    {
+      "class": "group",
+      "id": "1EEC599E-4729-43C8-B57F-3831FBD1A165"
+    },
+    {
+      "class": "group",
+      "id": "2774BF55-BDB9-4002-B3FA-7828EB8FBB27"
+    },
+    {
+      "class": "group",
+      "id": "09410AF4-FC1D-4C26-BD40-59E7C7F80242"
+    },
+    {
+      "class": "group",
+      "id": "B0B46EA5-07C0-4635-A7D5-3768C6297D38"
+    },
+    {
+      "class": "group",
+      "id": "A3B95CFD-F820-4DAA-B848-1DEAEBD92E31"
+    },
+    {
+      "class": "group",
+      "id": "26A6E7BD-73AD-4653-A2B3-AED53D817E2B"
+    },
+    {
+      "class": "text",
+      "id": "8AA8595D-782B-46DB-B39F-622970DFFB0B"
+    },
+    {
+      "class": "text",
+      "id": "2709DB70-EEBC-4285-8723-472FBF6B8EAF"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 237.2,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": false,
+    "horizontalOffset": 16,
+    "isEnabled": false,
+    "numberOfColumns": 5,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1250
+  },
+  "name": "Anchor 320 two column",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/fbd28f19229cab3d2fbc4ec12d5d8e45b74a0021",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Office",
+        "icon": "ball",
+        "index": 7,
+        "mode": "unsplash",
+        "title": "Office"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

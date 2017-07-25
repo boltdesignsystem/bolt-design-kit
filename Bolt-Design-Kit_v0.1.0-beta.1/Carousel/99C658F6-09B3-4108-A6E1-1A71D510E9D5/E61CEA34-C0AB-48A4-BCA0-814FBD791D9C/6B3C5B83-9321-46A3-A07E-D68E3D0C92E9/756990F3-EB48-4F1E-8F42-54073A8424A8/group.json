@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "do_objectID": "756990F3-EB48-4F1E-8F42-54073A8424A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 83,
+    "x": 94,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "59055269-530A-490E-8E65-CA836C145275"
+    }
+  ],
+  "name": "Sign-up/Log-in",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.silverflows.osx.silver": {
+      "componentInfo": {
+        "gestures": [
+          {
+            "action": {
+              "animateInTransition": "_DISSOLVE",
+              "artboardID": "A014CA02-B1F6-44DA-B075-2E48FB6A50FD",
+              "behavior": "_ARTBOARD_LINK",
+              "scrollToTopAfterReplace": 1,
+              "showModalAsOverlay": 0,
+              "transitionType": "_PUSH"
+            },
+            "animateInTransition": "_DISSOLVE",
+            "artboardID": "A014CA02-B1F6-44DA-B075-2E48FB6A50FD",
+            "behavior": "_ARTBOARD_LINK",
+            "id": "5C7C28DF-0390-491E-B807-8E97A32AA3EF",
+            "numberOfTaps": 1,
+            "scrollToTopAfterReplace": 1,
+            "showModalAsOverlay": 0,
+            "transitionType": "_PUSH",
+            "type": "_TAP"
+          }
+        ],
+        "id": "77B128BF-E2BF-4173-92DE-B54DED277F4D",
+        "silverID": "77B128BF-E2BF-4173-92DE-B54DED277F4D"
+      },
+      "componentType": "Link",
+      "version": 1
+    }
+  }
+}

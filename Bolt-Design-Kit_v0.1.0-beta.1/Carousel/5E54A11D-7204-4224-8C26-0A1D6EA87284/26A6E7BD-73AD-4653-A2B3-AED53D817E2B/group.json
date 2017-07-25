@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "26A6E7BD-73AD-4653-A2B3-AED53D817E2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 363,
+    "x": -19,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7A5294E9-D291-452F-AD6A-8470D4AD8335"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C3CF682F-E2C4-4D03-A8F2-2C7790376C9C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2811F04D-B4BE-4D84-9C9D-08CCA962968B"
+    },
+    {
+      "class": "text",
+      "id": "C3F66F1B-8ABD-47CE-B0D4-FFB812FFA7FA"
+    },
+    {
+      "class": "text",
+      "id": "7B731434-8A3B-4E00-92BF-D44E4EEF9D26"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88128B96-C4C9-43D1-B528-B06C35A616C8"
+    }
+  ],
+  "name": "Sticky",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

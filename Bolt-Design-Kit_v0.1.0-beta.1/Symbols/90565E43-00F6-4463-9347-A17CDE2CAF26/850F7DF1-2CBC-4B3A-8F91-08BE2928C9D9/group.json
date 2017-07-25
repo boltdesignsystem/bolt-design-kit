@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "850F7DF1-2CBC-4B3A-8F91-08BE2928C9D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 58,
+    "width": 58,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "48EC7AFC-885B-4ED9-8D5A-5ADCC775DF5F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D95CAA22-4711-4F21-90C5-65B586F0802E"
+    }
+  ],
+  "name": "Play button",
+  "nameIsFixed": true,
+  "originalObjectID": "850F7DF1-2CBC-4B3A-8F91-08BE2928C9D9",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

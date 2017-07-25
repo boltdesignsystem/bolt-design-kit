@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "7CE6D917-0D42-4560-BA9D-7CF7C3C35F53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 135,
+    "width": 1600,
+    "x": 0,
+    "y": 561
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1E7B777C-FD65-4227-B92F-406AB1050301"
+    },
+    {
+      "class": "group",
+      "id": "81D55463-2E95-4F3C-AC4D-9A741035B8C1"
+    },
+    {
+      "class": "group",
+      "id": "59C5BD6A-654C-4D72-8104-E2D02A20794A"
+    },
+    {
+      "class": "group",
+      "id": "36CDE731-D58D-4382-BEF2-5AA16D9BD897"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4FBE642-9EE1-4D43-901C-D0DD51A57C4F"
+    },
+    {
+      "class": "text",
+      "id": "9C070DAE-8D9A-4DA9-B825-3883147AA7A1"
+    }
+  ],
+  "name": "Asset ribbon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

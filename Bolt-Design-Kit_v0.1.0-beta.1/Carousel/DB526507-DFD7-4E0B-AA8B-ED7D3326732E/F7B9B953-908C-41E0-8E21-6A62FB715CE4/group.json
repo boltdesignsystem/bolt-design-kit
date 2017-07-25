@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "F7B9B953-908C-41E0-8E21-6A62FB715CE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 116,
+    "width": 1440,
+    "x": 0,
+    "y": 188
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1BAABFB3-9E08-4AC7-B1AA-C03AF3440793"
+    },
+    {
+      "class": "group",
+      "id": "10BFFF78-0B04-4EEB-95E4-FE685D38EC08"
+    },
+    {
+      "class": "text",
+      "id": "6A634407-63C9-442B-B222-32D968446FF1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0314B593-36BD-4190-BA75-FF2E216CCF47"
+    },
+    {
+      "class": "group",
+      "id": "5B399BCC-A7F1-4CE2-94DA-93A67AFBDCED"
+    }
+  ],
+  "name": "02 - One flexible row showing padding container",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

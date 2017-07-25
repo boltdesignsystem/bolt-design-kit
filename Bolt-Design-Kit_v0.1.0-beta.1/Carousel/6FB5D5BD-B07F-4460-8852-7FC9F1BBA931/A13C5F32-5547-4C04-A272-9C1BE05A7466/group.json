@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "A13C5F32-5547-4C04-A272-9C1BE05A7466",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 323,
+    "width": 694,
+    "x": 200,
+    "y": 174
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9DFDCBAD-64C6-4655-BD15-3C509F6AD4BE"
+    },
+    {
+      "class": "text",
+      "id": "44945E10-4863-4A4F-904E-035073C8C80E"
+    },
+    {
+      "class": "text",
+      "id": "0565DBF6-2FEC-4BBC-9F87-29A0A4862DEA"
+    },
+    {
+      "class": "text",
+      "id": "AE07A967-5F4C-4815-A384-3A6E3B182233"
+    }
+  ],
+  "name": "Hero lockup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
