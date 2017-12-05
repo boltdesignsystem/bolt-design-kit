@@ -2,7 +2,7 @@
 Currently, Abstract and Sketch shared libraries do not support text styles. Follow the steps below to install the correct text styles.
 
 * Download and install the plugin http://www.textstyl.es/
-* Download the Text Styles JSON file from GitHub or find it in the Design System folder on Box
+* Download the *NEWSEST* Text Styles JSON file from GitHub or find it in the Design System folder on Box
 * In the Sketch menu bar, go to Plugins > Shared Text Styles > Import Text Styles
 * Select the JSON file
 
